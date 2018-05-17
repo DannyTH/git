@@ -1,0 +1,135 @@
+
+
+.heading {
+  background-image: url("https://i.pinimg.com/originals/4f/c7/2a/4fc72a8b8ed1cbffb5cabf7a387f183d.jpg");
+  height: 950px;
+  text-align: center;
+}
+#welcome{
+  text-align: center;
+  color: white;
+  padding-top: 200px
+}
+#name-menia{
+  color: white;
+  text-align: center;
+  font-weight: normal;
+  font-style: normal;
+  font-family: monospace;
+  padding-top: 20px;
+  font-size: 80px;
+}
+#wee{
+  padding-top: 300px;
+  color: white;
+  font-size: 30px;
+}
+#description {
+  color: white;
+  font-size: 20px;
+  padding-left: 600px;
+  padding-right: 600px;
+  padding-top: 15px;
+}
+.heasder-desc-hr-first {
+  width: 80px;
+}
+.heasder-desc-hr-second {
+  width: 180px;
+}
+#heading-logo {
+  padding-top: 20px
+}
+.interior {
+  padding-top: 40px;
+  text-align: center;
+}
+#jit {
+  font-size: 60px;
+}
+#pit {
+  padding-left: 550px;
+  padding-right: 550px;
+  font: inherit;
+  font-family: sans-serif;
+}
+.home_block_desc_line {
+  width: 100px;
+  border-color: #333333;
+}
+#fit {
+  width: 388px;
+  height: 300px;
+  borde
+}
+.home_block_separator {
+  color: #808080;
+}
+.paragraph_block_end {
+  border-color: #333333;
+  width: 80px;
+}
+#lit {
+  width: 483px;
+  height: 347px;
+  text-align: center;
+}
+.pick {
+  font-size: 25px;
+}
+.lick {
+  padding-top: 50px;
+}
+.hick {
+  padding-top: 100px;
+}
+.customBTN {
+  background-image: url("http://www.mygov.go.ke/wp-content/uploads/2015/04/Nairobi-city2-810x608.jpg");
+  background-repeat: no-repeat;
+  color: white;
+  font-style: italic;
+  height: 350px;
+  width: 550px;
+  transition: 0.5s all;
+}
+.custom {
+  background-image: url("http://cache-graphicslib.viator.com/graphicslib/thumbs674x446/15254/SITours/full-day-tour-of-mombasa-in-mombasa-292179.jpg");
+  background-repeat: no-repeat;
+  color: white;
+  font-style: italic;
+  height: 350px;
+  width: 550px;
+  transition: 0.5s all
+}
+.overlay {
+  height: 350px;
+  width: 100px;
+  transition: 0.5s all;
+}
+.overlay:hover {
+  background-color: rgba(0,0,0,0.2);
+}
+#kit {
+  padding-left: 230px;
+  padding-bottom: 70px;
+}
+#vit {
+  background-color: #424242;
+  text-decoration-color: white;
+}
+#nit {
+  width: 40px;
+  height: 30px;
+}
+.footer_block_desc_line {
+  border-color:#7582F0;
+  width: 40px;
+}
+#hit {
+  color: white;
+  text-align: center;
+}
+#bit {
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
